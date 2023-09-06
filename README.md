@@ -1,4 +1,4 @@
-## Image Mixer
+# Mix two images
 
 ```commandline
 git clone <repo_path>/gen_test
@@ -8,6 +8,7 @@ cd scripts
 python run.py /Users/anton.savinkov/Desktop/<image1> /Users/anton.savinkov/Desktop/<image2>
 ```
 
+## Examples
 
 <p align="center">
     <img src="./images/input/boro.png" width="250" title="hover text">
