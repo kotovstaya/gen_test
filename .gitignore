@@ -9,10 +9,11 @@ __pycache__
 *.mp4
 *.pth
 .ipynb_checkpoints/
-src/
 logs
 .vscode/
 im-examples/
 datasets
 scratch/
 .venv/
+.idea/
+.DS_store
