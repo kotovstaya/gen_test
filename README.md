@@ -5,7 +5,7 @@ git clone <repo_path>/gen_test
 cd gen_test
 pip install -r requirements.txt
 cd scripts
-python run.py /Users/anton.savinkov/Desktop/<image1> /Users/anton.savinkov/Desktop/<image2>
+python run.py <image1_path> <image2_path>
 ```
 
 ## Examples
